@@ -1,2 +1,11 @@
-# negocio_3csigma
- Plataforma de Automatización de documentos
+# Gestor para automatización de documentos empresariales
+
+## Tech Stack
+* Node.js
+* Express.js
+* MySQL
+* Handlebars
+* Passport
+* Bcrypt
+
+#
